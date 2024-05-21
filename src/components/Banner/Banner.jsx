@@ -8,6 +8,7 @@ import {
   CardContent,
   CardMedia,
   Grid,
+  Button,
 } from "@mui/material";
 import Carousel from "./Carousel";
 import styled from "@emotion/styled";
